@@ -5,4 +5,4 @@ Rebased dev onto master after adding git ignore om main.
 
 Dev Commit #1
 
-Feature branch 2 sais hello
+Feature branch 2 sais hello and make a horrible fix that is not ok.
